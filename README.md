@@ -1,10 +1,19 @@
 # Python-Projects
 
-## Data Mining 1
-*   K - nearest neighbor, Support Vector Machines, Naive Bayes, Random Forest classification of articles
+## Data Mining
+### Data Mining 1
+*   K - nearest neighbor, Support Vector Machines, Naive Bayes, Random Forest classification of news articles
 
-## Data Mining 2
+### Data Mining 2
 *   Longest Common Subsequence algorithm applied on traffic routes
+
+## Image Processing
+### Hw1
+*   Image1 to Image2 conversion and backwards. Using gamma correction, spacial image transformation and convolution filters
+
+### Hw2
+*   Tasks using Hough Transform (Line and Circle) and feture extraction using binary image operations
+
 
 ## Network Management
 ###   Software Defined Networks project using mininet based on:
