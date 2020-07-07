@@ -1,0 +1,234 @@
+===============================================
+-------------------
+The the matching points are :
+77
+Jp_id is :
+040D1002
+Time is:
+591.786999941
+Key is:
+00
+-------------------
+The the matching points are :
+75
+Jp_id is :
+040D1002
+Time is:
+591.786999941
+Key is:
+01
+-------------------
+The the matching points are :
+74
+Jp_id is :
+040D1002
+Time is:
+591.786999941
+Key is:
+02
+-------------------
+The the matching points are :
+72
+Jp_id is :
+040D1002
+Time is:
+591.786999941
+Key is:
+03
+-------------------
+The the matching points are :
+71
+Jp_id is :
+040D1002
+Time is:
+591.786999941
+Key is:
+04
+===============================================
+-------------------
+The the matching points are :
+81
+Jp_id is :
+040D1002
+Time is:
+634.562000036
+Key is:
+10
+-------------------
+The the matching points are :
+77
+Jp_id is :
+040D1002
+Time is:
+634.562000036
+Key is:
+11
+-------------------
+The the matching points are :
+74
+Jp_id is :
+040D1002
+Time is:
+634.562000036
+Key is:
+12
+-------------------
+The the matching points are :
+72
+Jp_id is :
+040D1002
+Time is:
+634.562000036
+Key is:
+13
+-------------------
+The the matching points are :
+71
+Jp_id is :
+040D1002
+Time is:
+634.562000036
+Key is:
+14
+===============================================
+-------------------
+The the matching points are :
+40
+Jp_id is :
+01451008
+Time is:
+303.467000008
+Key is:
+20
+-------------------
+The the matching points are :
+40
+Jp_id is :
+00790001
+Time is:
+303.467000008
+Key is:
+21
+-------------------
+The the matching points are :
+40
+Jp_id is :
+079A0001
+Time is:
+303.467000008
+Key is:
+22
+-------------------
+The the matching points are :
+40
+Jp_id is :
+067X0001
+Time is:
+303.467000008
+Key is:
+23
+-------------------
+The the matching points are :
+39
+Jp_id is :
+01451001
+Time is:
+303.467000008
+Key is:
+24
+===============================================
+-------------------
+The the matching points are :
+59
+Jp_id is :
+00790001
+Time is:
+449.243999958
+Key is:
+30
+-------------------
+The the matching points are :
+57
+Jp_id is :
+00790001
+Time is:
+449.243999958
+Key is:
+31
+-------------------
+The the matching points are :
+57
+Jp_id is :
+00790001
+Time is:
+449.243999958
+Key is:
+32
+-------------------
+The the matching points are :
+57
+Jp_id is :
+00790001
+Time is:
+449.243999958
+Key is:
+33
+-------------------
+The the matching points are :
+56
+Jp_id is :
+00790001
+Time is:
+449.243999958
+Key is:
+34
+===============================================
+-------------------
+The the matching points are :
+73
+Jp_id is :
+01200001
+Time is:
+560.739000082
+Key is:
+40
+-------------------
+The the matching points are :
+71
+Jp_id is :
+01200002
+Time is:
+560.739000082
+Key is:
+41
+-------------------
+The the matching points are :
+71
+Jp_id is :
+01200001
+Time is:
+560.739000082
+Key is:
+42
+-------------------
+The the matching points are :
+71
+Jp_id is :
+01200001
+Time is:
+560.739000082
+Key is:
+43
+-------------------
+The the matching points are :
+70
+Jp_id is :
+01200001
+Time is:
+560.739000082
+Key is:
+44
+Time ellapsed
+561.149000168
+Finish
+Press any key to continue . . .

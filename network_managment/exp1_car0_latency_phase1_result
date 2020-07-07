@@ -1,0 +1,25 @@
+PING 192.168.1.7 (192.168.1.7) 56(84) bytes of data.
+64 bytes from 192.168.1.7: icmp_seq=1 ttl=62 time=18.9 ms
+64 bytes from 192.168.1.7: icmp_seq=2 ttl=62 time=7.44 ms
+64 bytes from 192.168.1.7: icmp_seq=3 ttl=62 time=7.15 ms
+64 bytes from 192.168.1.7: icmp_seq=4 ttl=62 time=12.6 ms
+64 bytes from 192.168.1.7: icmp_seq=5 ttl=62 time=9.04 ms
+64 bytes from 192.168.1.7: icmp_seq=6 ttl=62 time=6.80 ms
+64 bytes from 192.168.1.7: icmp_seq=7 ttl=62 time=7.32 ms
+64 bytes from 192.168.1.7: icmp_seq=8 ttl=62 time=10.6 ms
+64 bytes from 192.168.1.7: icmp_seq=9 ttl=62 time=7.53 ms
+64 bytes from 192.168.1.7: icmp_seq=10 ttl=62 time=7.24 ms
+64 bytes from 192.168.1.7: icmp_seq=11 ttl=62 time=12.2 ms
+64 bytes from 192.168.1.7: icmp_seq=12 ttl=62 time=9.21 ms
+64 bytes from 192.168.1.7: icmp_seq=13 ttl=62 time=7.24 ms
+64 bytes from 192.168.1.7: icmp_seq=14 ttl=62 time=14.1 ms
+64 bytes from 192.168.1.7: icmp_seq=15 ttl=62 time=11.1 ms
+64 bytes from 192.168.1.7: icmp_seq=16 ttl=62 time=6.89 ms
+64 bytes from 192.168.1.7: icmp_seq=17 ttl=62 time=7.88 ms
+64 bytes from 192.168.1.7: icmp_seq=18 ttl=62 time=11.8 ms
+64 bytes from 192.168.1.7: icmp_seq=19 ttl=62 time=8.54 ms
+64 bytes from 192.168.1.7: icmp_seq=20 ttl=62 time=8.15 ms
+
+--- 192.168.1.7 ping statistics ---
+20 packets transmitted, 20 received, 0% packet loss, time 19024ms
+rtt min/avg/max/mdev = 6.802/9.605/18.914/3.044 ms
